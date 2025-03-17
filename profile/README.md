@@ -17,7 +17,7 @@ The primary goal of ScoreOBE+ is to enhance the educational assessment process t
 - Generate and analyze TQF 3 and TQF 5 documents automatically based on uploaded scores
 
 
-## obe-frontend
+## OBE-frontend
 
 ### Description
 
@@ -49,7 +49,7 @@ The official frontend repository for ScoreOBE+, a comprehensive outcome-based ed
 
 ---
 
-## obe-backend
+## OBE-backend
 
 ### Description
 
